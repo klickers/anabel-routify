@@ -11,9 +11,11 @@
 </div>
 
 <div class = "ab-content">
-    <p>Welcome to my website!</p>
+    <section>
+        <p>Welcome to my website!</p>
 
-    <hr />
+        <hr />
 
-    <p>I am </p>
+        <p>I am </p>
+    </section>
 </div>
