@@ -12,10 +12,16 @@
 
 <div class = "ab-content">
     <section>
-        <p>Welcome to my website!</p>
+        <h1>Welcome to my website!</h1>
 
         <hr />
 
         <p>I am </p>
+    </section>
+</div>
+
+<div class = "ab-content">
+    <section>
+        <p>I love rabbits!</p>
     </section>
 </div>
