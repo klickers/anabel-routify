@@ -13,7 +13,7 @@
     </div>
     <div class = "ab-nav-social">
         <div class = "ab-nav-item">
-            <a href = "https://www.linkedin.com/in/anabel-chen-77839918b/"><i class="fab fa-linkedin"></i></a>
+            <a href = "https://www.linkedin.com/in/anabel-chen-77839918b" target="_blank"><i class="fab fa-linkedin"></i></a>
         </div>
     </div>
 </nav>
@@ -26,7 +26,7 @@
 <!-- Main Content -->
 <main>
     <!-- Profile picture -->
-    <img alt = "Anabel's profile picture" class = "ab-profile-pic" src = "https://media-exp1.licdn.com/dms/image/C5603AQEDXTO5cHgzZQ/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=oCzF-NOa3Q_MIib8sX_D2vPKEx6mQFnpulBtLzf8GII" />
+    <img alt = "Anabel's profile picture" class = "ab-profile-pic" src = "/anabel.jpg" />
 
     <slot />
 </main>
